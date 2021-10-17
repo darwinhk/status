@@ -3,14 +3,14 @@ owner: darwinhk
 repo: status
 
 sites:
-  - name: 谷歌
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 主页(Asia)
+    url: https://www.darwin.hk
+  - name: 主页(US/Source)
+    url: https://darwin.hk
+  - name: 数字许可
+    url: https://account.darwin.hk
+  - name: 控制台(用户中心)
+    url: https://dash.darwin.hk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
