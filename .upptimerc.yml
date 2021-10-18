@@ -9,7 +9,7 @@ sites:
     url: https://darwin.hk
   - name: "#网站# 授权用户控制台"
     url: https://dash.darwin.hk
-  - name: "#接口# 数字许可权利中心"
+  - name: "#服务# 数字许可权利管理"
     url: https://account.darwin.hk
   - name: "#服务# 云雷达中转服务"
     url: http://cloudradar-cnsh.darwin.hk:27075
