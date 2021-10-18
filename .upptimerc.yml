@@ -41,7 +41,7 @@ status-website:
 
 i18n:
   activeIncidents: Active Incidents
-  allSystemsOperational: 全部服务都在线
+  allSystemsOperational: "全部服务都在线"
   incidentReport: "Incident #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
@@ -56,20 +56,20 @@ i18n:
   incidentBack: ← Back to all incidents
   pastIncidents: Past Incidents
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: 实时状态
+  liveStatus: "实时状态"
   overallUptime: "总体正常运行时间: $UPTIME"
-  overallUptimeTitle: 总体正常运行
+  overallUptimeTitle: "总体正常运行"
   averageResponseTime: "平均响应时间: $TIMEms"
-  averageResponseTimeTitle: 平均响应
-  sevelDayResponseTime: 最近一周的响应时间
-  responseTimeMs: 响应时间 (毫秒)
-  up: 正常
-  down: 离线
-  degraded: 异常
-  ms: 毫秒
-  loading: 加载中
+  averageResponseTimeTitle: "平均响应"
+  sevelDayResponseTime: "最近一周的响应时间"
+  responseTimeMs: "响应时间 (毫秒)"
+  up: "正常"
+  down: "离线"
+  degraded: "异常"
+  ms: "毫秒"
+  loading: "加载中"
   navGitHub: GitHub
-  footer: [达尔文DARWIN](https://www.darwin.hk)实时服务状态, 可能存在1-5分钟的数据延迟。
+  footer: "[达尔文DARWIN](https://www.darwin.hk)实时服务状态, 可能存在1-5分钟的数据延迟。"
   rateLimitExceededTitle: Rate limit exceedeed
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
@@ -90,9 +90,9 @@ pastScheduledMaintenance: Past Scheduled Maintenance
 scheduledMaintenance: Scheduled Maintenance
 scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
 scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-startedAt: 已经开始于
-startsAt: 开始于
-duration: 持续
-durationMin: $DURATION 分钟
-incidentCompleted: 已完成
-incidentScheduled: 已计划
+startedAt: "已经开始于"
+startsAt: "开始于"
+duration: "持续"
+durationMin: "$DURATION 分钟"
+incidentCompleted: "已完成"
+incidentScheduled: "已计划"
