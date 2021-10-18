@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6168,
-    "timeDay": 6174,
+    "timeDay": 6167,
     "timeWeek": 6168,
     "timeMonth": 6168,
     "timeYear": 6168,
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/dash.darwin.hk",
     "slug": "",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
-    "time": 6831,
-    "timeDay": 6898,
-    "timeWeek": 6831,
-    "timeMonth": 6831,
-    "timeYear": 6831,
+    "uptime": "97.49%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
+    "time": 6841,
+    "timeDay": 6967,
+    "timeWeek": 6841,
+    "timeMonth": 6841,
+    "timeYear": 6841,
     "dailyMinutesDown": {
-      "2021-10-18": 27
+      "2021-10-18": 38
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/account.darwin.hk",
     "slug": "",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
-    "time": 6831,
-    "timeDay": 6898,
-    "timeWeek": 6831,
-    "timeMonth": 6831,
-    "timeYear": 6831,
+    "uptime": "97.49%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
+    "time": 6841,
+    "timeDay": 6967,
+    "timeWeek": 6841,
+    "timeMonth": 6841,
+    "timeYear": 6841,
     "dailyMinutesDown": {
-      "2021-10-18": 27
+      "2021-10-18": 38
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/cloudradar-cnsh.darwin.hk",
     "slug": "",
     "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.14%",
-    "time": 6831,
-    "timeDay": 6898,
-    "timeWeek": 6831,
-    "timeMonth": 6831,
-    "timeYear": 6831,
+    "uptime": "97.49%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
+    "time": 6841,
+    "timeDay": 6967,
+    "timeWeek": 6841,
+    "timeMonth": 6841,
+    "timeYear": 6841,
     "dailyMinutesDown": {
-      "2021-10-18": 27
+      "2021-10-18": 38
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/prd-status-csgo-premium.check.darwin.hk",
     "slug": "cs-go-premium",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-18": 9
+      "2021-10-18": 19
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://favicons.githubusercontent.com/prd-status-csgo-cloudradar.check.darwin.hk",
     "slug": "cs-go-cloud-radar",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-18": 9
+      "2021-10-18": 19
     }
   },
   {
@@ -141,18 +141,16 @@
     "icon": "https://favicons.githubusercontent.com/prd-status-pubg-premium.check.darwin.hk",
     "slug": "pubg-premium",
     "status": "down",
-    "uptime": "6.86%",
-    "uptimeDay": "6.86%",
-    "uptimeWeek": "6.86%",
-    "uptimeMonth": "6.86%",
-    "uptimeYear": "6.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-10-18": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
