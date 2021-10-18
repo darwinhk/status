@@ -3,14 +3,23 @@ owner: darwinhk
 repo: status
 
 sites:
-  - name: 主页(Asia)
+  - name: #网站# 达尔文主页(亚洲/Asia)
     url: https://www.darwin.hk
-  - name: 主页(US/Source)
+  - name: #网站# 达尔文主页(美国/U.S)
     url: https://darwin.hk
-  - name: 数字许可
-    url: https://account.darwin.hk
-  - name: 控制台(用户中心)
+  - name: #网站# 授权用户控制台
     url: https://dash.darwin.hk
+  - name: #接口# 数字许可权利中心
+    url: https://account.darwin.hk
+  - name: #服务# 云雷达中转服务
+    url: http://cloudradar-cnsh.darwin.hk:27075
+  - name: #订阅# CS:GO Premium
+    url: https://prd-status-csgo-premium.check.darwin.hk
+  - name: #订阅# CS:GO CloudRadar
+    url: https://prd-status-csgo-cloudradar.check.darwin.hk
+  - name: #订阅# PUBG Premium
+    url: https://prd-status-pubg-premium.check.darwin.hk
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
