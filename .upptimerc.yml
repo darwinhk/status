@@ -19,12 +19,12 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 达尔文服务实时状态
-  introTitle: "**达尔文Darwin** 实时服务状态."
-  introMessage: 您可以通过此页面查看达尔文相关服务的 **实时状态**
+  introTitle: "**服务状态**"
+  introMessage: **达尔文DARWIN**线上服务实时状态
   navbar:
-    - title: 实时状态
-      href: /
-    - title: 授权订阅
+    - title: 控制台
+      href: https://dash.darwin.hk/
+    - title: 购买授权
       href: https://www.darwin.hk/pay.html
 
 # Upptime also supports notifications, assigning issues, and more
