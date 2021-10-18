@@ -11,7 +11,13 @@ sites:
     url: https://dash.darwin.hk
   - name: "#服务# 数字许可权利管理"
     url: https://account.darwin.hk
-  - name: "#服务# 云雷达中转服务"
+  - name: "#服务# 云雷达数据中转 CNSH-1"
+    url: http://cloudradar-cnsh.darwin.hk:27075
+  - name: "#服务# 云雷达数据中转 CNSH-2"
+    url: http://cloudradar-cnsh.darwin.hk:27075
+  - name: "#服务# 云雷达数据中转 CNBJ-1"
+    url: http://cloudradar-cnsh.darwin.hk:27075
+  - name: "#服务# 云雷达数据中转 CNSZ-1"
     url: http://cloudradar-cnsh.darwin.hk:27075
   - name: "#订阅# CS:GO Premium"
     url: https://prd-status-csgo-premium.check.darwin.hk
