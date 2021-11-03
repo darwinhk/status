@@ -1,7 +1,7 @@
-url: https://dash.darwin.hk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-11-03T07:48:31.126Z
+url: https://account.darwin.hk
+status: up
+code: 200
+responseTime: 2581
+lastUpdated: 2021-11-03T07:48:35.136Z
 startTime: Sun Oct 17 2021 16:57:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
