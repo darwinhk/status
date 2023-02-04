@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.darwin.hk.ico",
     "slug": "asia",
     "status": "down",
-    "uptime": "25.29%",
+    "uptime": "25.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.36%",
-    "time": 1938,
+    "uptimeYear": "8.08%",
+    "time": 1907,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2004,
+    "timeYear": 2005,
     "dailyMinutesDown": {
-      "2023-02-03": 65,
+      "2023-02-04": 60,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -361,18 +362,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/darwin.hk.ico",
     "slug": "u-s",
     "status": "down",
-    "uptime": "12.86%",
+    "uptime": "12.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.36%",
+    "uptimeYear": "8.09%",
     "time": 1896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3199,
+    "timeYear": 3180,
     "dailyMinutesDown": {
-      "2023-02-03": 65,
+      "2023-02-04": 60,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -722,13 +724,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 8984,
+    "time": 11185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 325,
+      "2023-02-04": 300,
+      "2023-02-03": 7200,
       "2023-02-02": 7200,
       "2023-02-01": 7200,
       "2023-01-31": 7200,
@@ -1091,8 +1094,7 @@
       "2022-02-08": 4320,
       "2022-02-07": 4320,
       "2022-02-06": 4320,
-      "2022-02-05": 4320,
-      "2022-02-04": 4320
+      "2022-02-05": 4320
     }
   },
   {
@@ -1106,13 +1108,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 8984,
+    "time": 11185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 325,
+      "2023-02-04": 300,
+      "2023-02-03": 7200,
       "2023-02-02": 7200,
       "2023-02-01": 7200,
       "2023-01-31": 7200,
@@ -1475,8 +1478,7 @@
       "2022-02-08": 4320,
       "2022-02-07": 4320,
       "2022-02-06": 4320,
-      "2022-02-05": 4320,
-      "2022-02-04": 4320
+      "2022-02-05": 4320
     }
   },
   {
@@ -1503,7 +1505,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-csgo-premium.check.darwin.hk.ico",
     "slug": "cs-go-premium",
     "status": "down",
-    "uptime": "6.29%",
+    "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1514,7 +1516,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 66,
+      "2023-02-04": 61,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -1877,8 +1880,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -1887,7 +1889,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-csgo-cloudradar.check.darwin.hk.ico",
     "slug": "cs-go-cloud-radar",
     "status": "down",
-    "uptime": "6.29%",
+    "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1898,7 +1900,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 66,
+      "2023-02-04": 61,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -2261,8 +2264,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   },
   {
@@ -2271,7 +2273,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-pubg-premium.check.darwin.hk.ico",
     "slug": "pubg-premium",
     "status": "down",
-    "uptime": "6.30%",
+    "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2282,7 +2284,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 66,
+      "2023-02-04": 61,
+      "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -2645,8 +2648,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
-      "2022-02-05": 1440,
-      "2022-02-04": 1440
+      "2022-02-05": 1440
     }
   }
 ]
