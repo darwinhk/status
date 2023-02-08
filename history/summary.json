@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.darwin.hk.ico",
     "slug": "asia",
     "status": "down",
-    "uptime": "25.07%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.26%",
+    "uptimeYear": "6.99%",
     "time": 1810,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1959,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2023-02-07": 62,
+      "2023-02-08": 63,
+      "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -365,18 +366,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/darwin.hk.ico",
     "slug": "u-s",
     "status": "down",
-    "uptime": "12.75%",
+    "uptime": "12.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.26%",
+    "uptimeYear": "6.99%",
     "time": 1896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3126,
+    "timeYear": 3082,
     "dailyMinutesDown": {
-      "2023-02-07": 62,
+      "2023-02-08": 63,
+      "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -730,13 +732,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11165,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 310,
+      "2023-02-08": 315,
+      "2023-02-07": 7200,
       "2023-02-06": 7200,
       "2023-02-05": 7200,
       "2023-02-04": 7200,
@@ -1099,8 +1102,7 @@
       "2022-02-16": 4320,
       "2022-02-15": 4320,
       "2022-02-14": 4320,
-      "2022-02-13": 4320,
-      "2022-02-08": 4320
+      "2022-02-13": 4320
     }
   },
   {
@@ -1114,13 +1116,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 11165,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 310,
+      "2023-02-08": 315,
+      "2023-02-07": 7200,
       "2023-02-06": 7200,
       "2023-02-05": 7200,
       "2023-02-04": 7200,
@@ -1483,8 +1486,7 @@
       "2022-02-16": 4320,
       "2022-02-15": 4320,
       "2022-02-14": 4320,
-      "2022-02-13": 4320,
-      "2022-02-08": 4320
+      "2022-02-13": 4320
     }
   },
   {
@@ -1511,7 +1513,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-csgo-premium.check.darwin.hk.ico",
     "slug": "cs-go-premium",
     "status": "down",
-    "uptime": "6.24%",
+    "uptime": "6.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1522,7 +1524,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 62,
+      "2023-02-08": 63,
+      "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1885,8 +1888,7 @@
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
-      "2022-02-09": 1440,
-      "2022-02-08": 1440
+      "2022-02-09": 1440
     }
   },
   {
@@ -1895,7 +1897,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-csgo-cloudradar.check.darwin.hk.ico",
     "slug": "cs-go-cloud-radar",
     "status": "down",
-    "uptime": "6.24%",
+    "uptime": "6.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1906,7 +1908,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 62,
+      "2023-02-08": 63,
+      "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -2269,8 +2272,7 @@
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
-      "2022-02-09": 1440,
-      "2022-02-08": 1440
+      "2022-02-09": 1440
     }
   },
   {
@@ -2279,7 +2281,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd-status-pubg-premium.check.darwin.hk.ico",
     "slug": "pubg-premium",
     "status": "down",
-    "uptime": "6.24%",
+    "uptime": "6.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2290,7 +2292,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 62,
+      "2023-02-08": 64,
+      "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -2653,8 +2656,7 @@
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
-      "2022-02-09": 1440,
-      "2022-02-08": 1440
+      "2022-02-09": 1440
     }
   }
 ]
